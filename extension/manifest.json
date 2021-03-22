@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Mudrika Launcher",
+    "description": "Quick launch Media",
+    "version": "1.0.0",
+    "icons": {"128": "logo_128.jpg"},
+    "browser_action": {
+        "default_icon": "logo.jpg",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
+
+
